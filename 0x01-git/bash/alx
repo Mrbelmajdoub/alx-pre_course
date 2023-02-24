@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "The school is open!"
-=======
-echo "The school is open!"
->>>>>>> Hot fix
